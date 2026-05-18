@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/git@github.com:Jhenia92/hws2-master.git/static/css/main.f2b38959.css",
+    "main.js": "/git@github.com:Jhenia92/hws2-master.git/static/js/main.0a703368.js",
+    "static/js/787.67f55d8d.chunk.js": "/git@github.com:Jhenia92/hws2-master.git/static/js/787.67f55d8d.chunk.js",
+    "static/media/avatar.png": "/git@github.com:Jhenia92/hws2-master.git/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/git@github.com:Jhenia92/hws2-master.git/index.html",
+    "main.f2b38959.css.map": "/git@github.com:Jhenia92/hws2-master.git/static/css/main.f2b38959.css.map",
+    "main.0a703368.js.map": "/git@github.com:Jhenia92/hws2-master.git/static/js/main.0a703368.js.map",
+    "787.67f55d8d.chunk.js.map": "/git@github.com:Jhenia92/hws2-master.git/static/js/787.67f55d8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2b38959.css",
+    "static/js/main.0a703368.js"
+  ]
+}
