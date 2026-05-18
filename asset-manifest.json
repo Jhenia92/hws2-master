@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Jhenia92/hws2-master.git/static/css/main.f2b38959.css",
-    "main.js": "/Jhenia92/hws2-master.git/static/js/main.61e192d9.js",
-    "static/js/787.67f55d8d.chunk.js": "/Jhenia92/hws2-master.git/static/js/787.67f55d8d.chunk.js",
-    "static/media/avatar.png": "/Jhenia92/hws2-master.git/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/Jhenia92/hws2-master.git/index.html",
-    "main.f2b38959.css.map": "/Jhenia92/hws2-master.git/static/css/main.f2b38959.css.map",
-    "main.61e192d9.js.map": "/Jhenia92/hws2-master.git/static/js/main.61e192d9.js.map",
-    "787.67f55d8d.chunk.js.map": "/Jhenia92/hws2-master.git/static/js/787.67f55d8d.chunk.js.map"
+    "main.css": "/hws2-master/static/css/main.f2b38959.css",
+    "main.js": "/hws2-master/static/js/main.d41a1290.js",
+    "static/js/787.67f55d8d.chunk.js": "/hws2-master/static/js/787.67f55d8d.chunk.js",
+    "static/media/avatar.png": "/hws2-master/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/hws2-master/index.html",
+    "main.f2b38959.css.map": "/hws2-master/static/css/main.f2b38959.css.map",
+    "main.d41a1290.js.map": "/hws2-master/static/js/main.d41a1290.js.map",
+    "787.67f55d8d.chunk.js.map": "/hws2-master/static/js/787.67f55d8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f2b38959.css",
-    "static/js/main.61e192d9.js"
+    "static/js/main.d41a1290.js"
   ]
 }
